@@ -1,0 +1,28 @@
+# A first-level heading
+## A second-level heading
+### A third-level heading
+Screenshot of rendered GitHub Markdown showing sample h1, h2, and h3 headers, which descend in type size and visual weight to indicate descending hierarchy level.
+
+When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
+
+Screenshot of the README file in the GitHub Docs open source repository with the drop-down menu for the table of contents exposed. The table of contents icon is outlined in dark orange.
+
+Styling text
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+
+Style	Syntax	Keyboard shortcut	Example	Output
+Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
+Italic	* * or _ _     	Command+I (Mac) or Ctrl+I (Windows/Linux)	*This text is italicized*	This text is italicized
+Strikethrough	~~ ~~	None	~~This was mistaken text~~	This was mistaken text
+Bold and nested italic	** ** and _ _	None	**This text is _extremely_ important**	This text is extremely important
+All bold and italic	*** ***	None	***All this text is important***	All this text is important
+Subscript	<sub> </sub>	None	<sub>This is a subscript text</sub>	This is a subscript text
+Superscript	<sup> </sup>	None	<sup>This is a superscript text</sup>	This is a superscript text
+Quoting text
+You can quote text with a >.
+
+Text that is not a quote
+
+> Text that is a quote
+Quoted text is indented, with a different type color.
+
